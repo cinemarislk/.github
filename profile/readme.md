@@ -2,34 +2,30 @@
 
 <br>
 
-<a href="https://github.com/iamprogrammerlk">
-  <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammerlk" width="200">
+<a href="https://cinemaris.lk">
+  <img src="https://avatars.githubusercontent.com/u/47110825?s=200&v=4" alt="cinemarislk" width="200">
 </a>
 
 <br>
 <br>
 
-# I am Programmer
-
-## Programming is like sex, I can't make a mistake.</h4>
+## A community for TV and Movie enthusiasts. Join us to discuss your favorite shows, and reviews, stay updated on the latest releases, and connect with fellow fans.</h4>
 
 <br>
 
 ---
 
-#### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Sponsors][sponsors] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin] :small_orange_diamond: [Buy Me a Coffee][buymeacoffee]
+#### [Home][home] :small_orange_diamond: [Blog][blog] :small_orange_diamond: [Discussions][discussions] :small_orange_diamond: [Github][github] :small_orange_diamond: [Youtube][youtube] :small_orange_diamond: [X][x] :small_orange_diamond: [LinkedIn][linkedin]
 
 ---
 
-[home]: https://iamprogrammer.lk
-[blog]: https://blog.iamprogrammer.lk
-[sponsors]: https://github.com/sponsors/iamprogrammerlk
-[discussions]: https://github.com/iamprogrammerlk/iamprogrammerlk/discussions
-[github]: https://github.com/iamprogrammerlk
-[youtube]: https://youtube.com/@iamprogrammerlk
-[x]: https://x.com/iamprogrammerlk
-[linkedin]: https://lk.linkedin.com/company/iamprogrammerlk
-[buymeacoffee]: https://buymeacoffee.com/iamprogrammerlk
+[home]: https://cinemaris.lk
+[blog]: https://blog.cinemaris.lk
+[discussions]: https://github.com/cinemarislk/cinemarislk/discussions
+[github]: https://github.com/cinemarislk
+[youtube]: https://youtube.com/@cinemarislk
+[x]: https://x.com/cinemarislk
+[linkedin]: https://lk.linkedin.com/company/cinemarislk
 
 <br>
 
