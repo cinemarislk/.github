@@ -8,11 +8,11 @@
     <img src="https://avatars.githubusercontent.com/u/47110825?s=200&v=4" alt="Cinemaris.lk" width="200">
   </a>
 
-<!-- <br><br>
+<br><br>
 
-  <h1>{{ORGANIZATION_TAGLINE}}</h1>
+  <h1><i>A Community for TV and Movie Enthusiasts</i></h1>
 
-  <br>
+  <!-- <br>
 
   <h2>
     <a href="https://{{URL}}">🏠 Home</a> 
@@ -98,23 +98,23 @@ We love contributions! Here's how you can help:
 
 - ### 💰 **Financial Support:** Make a [donation][donation]
 
-<!-- <br><br>
+<br><br>
 
 # 📞 Connect With Us
 
-- ### 🌐 Website: [{{WEBSITE}}][website]
+<!-- - ### 🌐 Website: [{{WEBSITE}}][website] -->
 
-- ### 📧 Email: [{{EMAIL}}][email]
+<!-- - ### 📧 Email: [{{EMAIL}}][email] -->
 
-- ### 🏗️ Github: [{{USERNAME}}][github]
+- ### 🏗️ Github: [cinemarislk][github]
 
-- ### 📚 Reddit: [{{USERNAME}}][reddit]
+- ### 📚 Reddit: [r/cinemarislk][reddit]
 
-- ### 💼 LinkedIn: [{{USERNAME}}][linkedin]
+- ### 💼 LinkedIn: [company/cinemarislk][linkedin]
 
-- ### 🐦 X: [{{USERNAME}}][x]
+- ### 🐦 X: [cinemarislk][x]
 
-- ### 📹 YouTube: [{{USERNAME}}][youtube] -->
+- ### 📹 YouTube: [@cinemarislk][youtube]
 
 <br><br>
 
@@ -142,7 +142,7 @@ Please check individual repositories for specific licensing information.
 
 ---
 
-_Made with ❤️ by [I am Programmer][lead_maintainer] and [The {{ORGANIZATION_NAME}} Team][contributors]._
+_Made with ❤️ by [I am Programmer][lead_maintainer] and [The Cinemaris Team][contributors]._
 
 <br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
@@ -150,11 +150,11 @@ _Made with ❤️ by [I am Programmer][lead_maintainer] and [The {{ORGANIZATION_
 
 [website]: https://{{ORGANIZATION_WEBSITE}}
 [email]: mailto:contact@{{ORGANIZATION_WEBSITE}}
-[reddit]: https://reddit.com/r/{{ORGANIZATION_USERNAME}}
-[github]: https://github.com/{{ORGANIZATION_USERNAME}}
-[youtube]: https://youtube.com/@{{ORGANIZATION_USERNAME}}
-[x]: https://x.com/{{ORGANIZATION_USERNAME}}
-[linkedin]: https://linkedin.com/company/{{ORGANIZATION_USERNAME}}
+[reddit]: https://reddit.com/r/cinemarislk
+[github]: https://github.com/cinemarislk
+[youtube]: https://youtube.com/@cinemarislk
+[x]: https://x.com/cinemarislk
+[linkedin]: https://linkedin.com/company/cinemarislk
 [issues]: https://github.com/cinemarislk/cinemarislk/issues
 [contributing]: https://github.com/cinemarislk/cinemarislk/contributing.md
 [contributors]: https://github.com/cinemarislk/cinemarislk/graphs/contributors
